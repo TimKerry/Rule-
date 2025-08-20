@@ -1,7 +1,5 @@
 # 中国农业银行直连规则集
 # 更新时间: 2025-08-20
-
-[Rule]
 DOMAIN-SUFFIX,abchina.com,DIRECT
 DOMAIN-SUFFIX,abchina.com.cn,DIRECT
 
