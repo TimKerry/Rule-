@@ -1,0 +1,27 @@
+# 中国农业银行直连规则集
+# 更新时间: 2025-08-20
+
+[Rule]
+DOMAIN-SUFFIX,abchina.com,DIRECT
+DOMAIN-SUFFIX,abchina.com.cn,DIRECT
+
+# 个人网银
+DOMAIN,ibank.abchina.com,DIRECT
+DOMAIN,perbank.abchina.com,DIRECT
+DOMAIN,ibank.abchina.com.cn,DIRECT
+DOMAIN,perbank.abchina.com.cn,DIRECT
+
+# 企业网银
+DOMAIN,cbank.abchina.com,DIRECT
+DOMAIN,ubank.abchina.com,DIRECT
+DOMAIN,ebank.abchina.com,DIRECT
+DOMAIN,cbank.abchina.com.cn,DIRECT
+DOMAIN,ubank.abchina.com.cn,DIRECT
+DOMAIN,ebank.abchina.com.cn,DIRECT
+
+# 官网
+DOMAIN,www.abchina.com,DIRECT
+DOMAIN,www.abchina.com.cn,DIRECT
+
+# ⚠️ 已停用旧域名（不再推荐使用）
+# DOMAIN-SUFFIX,95599.cn,DIRECT
