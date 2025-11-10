@@ -37,6 +37,7 @@ DOMAIN, generativeai.google
 DOMAIN, generativelanguage.googleapis.com
 DOMAIN, makersuite.google.com
 DOMAIN, proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX, robinfrontend-pa.googleapis.com
 
 # Claude
 DOMAIN-SUFFIX, anthropic.com
